@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="DriverIC" size="0.020000 0.020000" />
+    <ImageTarget name="LogicIC" size="0.020000 0.020000" />
+    <ImageTarget name="Capacitor5" size="0.020000 0.020000" />
+    <ImageTarget name="DarlingtonTransistor" size="0.020000 0.020000" />
+    <ImageTarget name="PowerTransistor" size="0.020000 0.020000" />
+    <ImageTarget name="Capacitor4" size="0.020000 0.020000" />
+    <ImageTarget name="Capacitor3" size="0.020000 0.020000" />
+    <ImageTarget name="Capacitor2" size="0.020000 0.020000" />
+    <ImageTarget name="Motherboard" size="0.020000 0.020000" />
+    <ImageTarget name="Test" size="0.010000 0.009964" />
+    <ImageTarget name="Capacitor1" size="0.010000 0.010000" />
+  </Tracking>
+</QCARConfig>
